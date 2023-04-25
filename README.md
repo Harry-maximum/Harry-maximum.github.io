@@ -1,5 +1,5 @@
 # Harry-maximum.github.io
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>计时器</title>
